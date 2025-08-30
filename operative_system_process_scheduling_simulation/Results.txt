@@ -1,0 +1,95 @@
+3. Jose
+5 + 2 = 7
+Requested time: 8
+Arrival time: 0
+Waiting time: 40
+Service time: 8
+Return time: 48
+Completion time: 48
+4. Juan
+5 / 3 = 1.67
+Requested time: 6
+Arrival time: 0
+Waiting time: 43
+Service time: 6
+Return time: 49
+Completion time: 49
+5. Carlos
+1 + 1 = 2
+Requested time: 10
+Arrival time: 0
+Waiting time: 44
+Service time: 10
+Return time: 54
+Completion time: 54
+6. Jose
+4 - 5 = -1
+Requested time: 8
+Arrival time: 0
+Waiting time: 49
+Service time: 8
+Return time: 57
+Completion time: 57
+1. Carolina
+5 + 10 = 15
+Requested time: 12
+Arrival time: 0
+Waiting time: 51
+Service time: 12
+Return time: 63
+Completion time: 63
+2. Carlos
+5 * 6 = 30
+Requested time: 11
+Arrival time: 0
+Waiting time: 52
+Service time: 11
+Return time: 63
+Completion time: 63
+8. Jose
+2 + 1 = 3
+Requested time: 6
+Arrival time: 48
+Waiting time: 25
+Service time: 6
+Return time: 31
+Completion time: 79
+7. Juan
+4 - 9 = -5
+Requested time: 11
+Arrival time: 0
+Waiting time: 63
+Service time: 11
+Return time: 74
+Completion time: 74
+9. Jose
+6 - 8 = -2
+Requested time: 9
+Arrival time: 49
+Waiting time: 28
+Service time: 9
+Return time: 37
+Completion time: 86
+10. Juan
+8 - 5 = 3
+Requested time: 8
+Arrival time: 54
+Waiting time: 27
+Service time: 8
+Return time: 35
+Completion time: 89
+_____________________________________________________________________________
+                             Time Table                                
+_____________________________________________________________________________
+|N	|Requested	|Arrival	|Wait	|Service	|Return		|Completion		|
+|3	|8			|0			|40		|8			|48			|48				|
+|4	|6			|0			|43		|6			|49			|49				|
+|5	|10			|0			|44		|10			|54			|54				|
+|6	|8			|0			|49		|8			|57			|57				|
+|1	|12			|0			|51		|12			|63			|63				|
+|2	|11			|0			|52		|11			|63			|63				|
+|8	|6			|48			|25		|6			|31			|79				|
+|7	|11			|0			|63		|11			|74			|74				|
+|9	|9			|49			|28		|9			|37			|86				|
+|10	|8			|54			|27		|8			|35			|89				|
+_____________________________________________________________________________
